@@ -1,0 +1,10 @@
+body {
+    color: white;
+    background: rgb(127, 198, 127);
+    font-family : arial;
+    }
+    
+    p{
+        color: white;
+        background-color: red;
+    }
